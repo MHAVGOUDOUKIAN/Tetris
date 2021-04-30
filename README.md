@@ -1,6 +1,6 @@
 # Tetris
 
-### Status du projet ~ Terminé
+### Status du projet - Terminé
 
 ## Author
     Maxime HAVGOUDOUKIAN
