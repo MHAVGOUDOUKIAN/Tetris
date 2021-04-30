@@ -1,6 +1,6 @@
 # Tetris
 
-## Status du projet
+### Status du projet
     Terminé
 
 ## Author
