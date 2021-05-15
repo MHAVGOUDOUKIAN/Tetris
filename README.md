@@ -1,6 +1,3 @@
-# Tetris
+# Tetris (2016)
 
-## Author
-    Maxime HAVGOUDOUKIAN
-
-### Status du projet - Terminé
+Jeu Tetris codé en C
